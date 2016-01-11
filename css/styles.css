@@ -1,0 +1,17 @@
+body {
+  background: url(../img/sheep.jpg);
+  font-family: 'IM Fell DW Pica', serif;
+  background-image: repeating-linear-gradient();
+}
+
+.lead {
+  text-shadow: 2px 2px #EBEBEB;
+  font-style: italic;
+  font-size: 2em;
+}
+
+.container {
+  background-color: white;
+  padding-top: 50px;
+  margin-top:0;
+}
